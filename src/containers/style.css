@@ -1,0 +1,11 @@
+.containerHeight {
+  height: 100vh !important;
+  align-items: center;
+}
+.banner {
+  width: 100%
+}
+.bannermargin {
+  height: 100%;
+  margin-top: 5%;
+}
